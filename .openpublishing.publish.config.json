@@ -12,7 +12,7 @@
       "docset_name": "configdashboarddemo",
       "build_source_folder": "configdashboarddemo",
       "locale": "en-us",
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "build_entry_point": "docs",
       "template_folder": "_themes"
     }
