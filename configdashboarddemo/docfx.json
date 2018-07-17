@@ -10,8 +10,7 @@
       {
         "files": [
           "**/*.md",
-          "**/*.yml",
-          "**/*.xml"
+          "**/*.yml"
         ],
         "exclude": [
           "**/obj/**",
@@ -41,7 +40,7 @@
     ],
     "globalMetadata": {
       "breadcrumb_path": "/configdashboarddemo/breadcrumb/toc.json",
-      "extendBreadcrumb": false,
+      "extendBreadcrumb": true,
       "feedback_system": "None"
     }
   }
